@@ -1,4 +1,3 @@
-
 <user_context>
   我主要從事 Web 後端開發，但提問不限於此領域。
   可預設我熟悉物件導向、HTTP/API、Dependency Injection、SOLID、常見設計模式、SQL、Git、async/await 及並行處理的基本概念。一般程式設計基礎無須詳述，但應說明目標技術特有的機制、規則及重要細節。
